@@ -1,25 +1,128 @@
-<h1 align="center">Hi 👋, I'm SRISHTI RAJPUT</h1>
-<h3 align="center">Aspiring Data Scientist from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsrish&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsrish" /> </p>
+# 👋 Hi, I'm Srishti Rajput
 
-- 🌱 I’m currently learning **Data Science and GenAi**
+### 🤖 Aspiring Data Scientist & AI Engineer
 
-- 👨‍💻 All of my projects are available at [https://github.com/CodeWithSrish](https://github.com/CodeWithSrish)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%A4%96;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
-- 📫 How to reach me **srishtirajputonline@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishti-rajput-629201263)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@The_Learning_loungee)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srishtirajputonline@gmail.com)
+![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-brightgreen?style=for-the-badge)
 
-- ⚡ Fun fact **I am always eager to try new things**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/srishti-rajput-629201263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/srishti-rajput-629201263" height="30" width="40" /></a>
-<a href="https://kaggle.com/srishtii01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srishtii01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the_learning_loungee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the_learning_loungee" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/srishtirajput201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="srishtirajput201" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🙋‍♀️ About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithsrish&show_icons=true&locale=en&layout=compact" alt="codewithsrish" /></p>
+> *"Data is the new oil — and I'm here to refine it."*
+
+I'm a **final-year B.Tech student** with a passion for Data Science and Artificial Intelligence. I love diving deep into data, uncovering hidden patterns, and building intelligent systems that solve real-world problems. Whether it's crafting ML models, fine-tuning LLMs, or creating insightful visualizations — I bring curiosity and dedication to every challenge.
+
+- 🎓 **B.Tech** — Final Year (4th Year)
+- 🏫 Certified by **Boston Institute of Analytics** in Data Science & AI
+- 📺 I share my learning journey on **[The Learning Lounge](https://www.youtube.com/@The_Learning_loungee)**
+- 💡 Currently exploring **LLMs, Generative AI & Model Deployment**
+- 🤝 Open to **full-time opportunities, internships & collaborations**
+- ⚡ Fun fact: I believe every dataset has a story — you just need to ask the right questions!
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+| 🎖️ Certification | 🏛️ Issuing Body |
+|---|---|
+| Diploma in **Data Science** | Boston Institute of Analytics |
+| Diploma in **Artificial Intelligence** | Boston Institute of Analytics |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🐍 Programming & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🤖 Machine Learning & Deep Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**ML Algorithms:** Linear Regression · Logistic Regression · Decision Trees · Random Forest · SVM · KNN · K-Means · Hierarchical Clustering · Ensemble Methods (Bagging & Boosting) · Naive Bayes
+
+**Deep Learning:** ANN · CNN · RNN · LSTM · GRU · Transformers
+
+**Model Explainability:** SHAP · LIME · Feature Importances · ROC-AUC · Confusion Matrix
+
+### 📈 Time Series & Statistics
+**Time Series Models:** ARIMA · SARIMA · SARIMAX · AR · MA · ARMA · Prophet
+
+**Statistics:** Descriptive & Inferential Statistics · Hypothesis Testing · Probability · Measures of Central Tendency & Dispersion · Cross Validation · Hyperparameter Tuning
+
+### 🧠 NLP & Generative AI
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**NLP:** Tokenization · Stemming · Lemmatization · Bag of Words · TF-IDF · BERT · DistilBERT · Sentiment Analysis · Text Classification
+
+**GenAI / LLMs:** GPT Models · Gemini · Claude (Anthropic) · Ollama · Open Source Models · Hugging Face Transformers · Prompt Engineering · LLM Frameworks
+
+### 📊 Data Visualization & BI Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Skills:** Plots · Pivot Tables · Dashboards · Slicers · Interactive Visuals · EDA
+
+### 🚀 Deployment & Dev Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=srishtirajput&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishtirajput&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srishtirajput&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## 🎯 What I'm Currently Working On
+
+- 🔭 Building end-to-end **ML & AI projects** for my portfolio
+- 📚 Deep-diving into **LLM fine-tuning** and **Agentic AI**
+- 🎬 Creating educational content on **[The Learning Lounge](https://www.youtube.com/@The_Learning_loungee)**
+- 💼 Actively looking for **Data Science / AI Engineer roles**
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+I'm always excited to connect with fellow data enthusiasts, collaborate on interesting projects, or explore new job opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishti-rajput-629201263)
+[![YouTube](https://img.shields.io/badge/Watch_My_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@The_Learning_loungee)
+[![Email](https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srishtirajputonline@gmail.com)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=srishtirajput&label=Profile+Views&color=a855f7&style=for-the-badge" />
+
+*⭐ If you find my work interesting, consider starring my repositories!*
+
+</div>
