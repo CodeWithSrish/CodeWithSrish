@@ -1,83 +1,106 @@
-# 👋 Hi, I'm Srishti Rajput
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Hi%2C+I'm+Srishti+Rajput+%F0%9F%91%8B;Data+Scientist+%26+AI+Engineer;Building+Agentic+Systems+%26+LLMs;Machine+Learning+Pipelines" alt="Typing SVG" />
+  </a>
+</h1>
 
-### 🤖 Data Scientist & AI Engineer
+<p align="center">
+  <em>"Data is the new oil — and I'm here to refine it."</em>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Open to Work](https://img.shields.io/badge/Open_To_Work-460554?style=for-the-badge&logo=Looker&logoColor=white)](#)
+<p align="center">
+  <a href="https://www.linkedin.com/in/code-with-srish"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@TheLearningLoungee"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:srishtirajput042@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <img src="https://img.shields.io/badge/Status-Open_To_Work-8A2BE2?style=for-the-badge" alt="Open to Work" />
+</p>
 
 ---
 
 ## 🙋‍♀️ About Me
 
-*"Data is the new oil — and I'm here to refine it."*
-
-I am a Data Science & AI Engineer with hands-on experience in machine learning pipelines, agentic AI, and enterprise analytics. I specialize in turning complex datasets into scalable, intelligent solutions — from fine-tuning LLMs and building predictive risk engines to engineering end-to-end data pipelines.
+I am a **Data Science & AI Engineer** with hands-on experience in machine learning pipelines, agentic AI, and enterprise analytics. I specialize in turning complex datasets into scalable, intelligent solutions — from fine-tuning LLMs and building predictive risk engines to engineering end-to-end data pipelines.
 
 - 🎓 **Education:** Background in Electronics & Communication Engineering (ECE) with specialized training in Data Science & Generative AI.
-- 🏫 **Certifications:** Dual Diplomas in Data Science & Artificial Intelligence from *Boston Institute of Analytics*.
-- 📺 **Content Creation:** I create tutorials on tech, machine learning, and data science on [The Learning Loungee](YOUR_YOUTUBE_URL).
-- 💡 **Core Skills:** Machine Learning, Generative AI & Agentic Systems, Predictive Modeling, Time Series Forecasting, and Financial Analytics.
-- 🤝 Open to **Full-Time Data Scientist / AI Engineer roles** and collaborative projects.
+- 🏫 **Diplomas:** Dual Diplomas in Data Science & Artificial Intelligence from *Boston Institute of Analytics*.
+- ☁️ **Cloud Expertise:** Google Cloud Certified in AI Agents (ADK), Gemini Enterprise Workflows, and BigQuery Data Warehousing.
+- 📺 **Content Creation:** I create tutorials on tech, machine learning, and data science on **[The Learning Loungee](https://youtube.com/@TheLearningLoungee)**.
+- 🤝 Open to **Full-Time Data Scientist / AI Engineer roles** and collaborative open-source projects.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithSrish&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithSrish&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithSrish&theme=tokyonight" width="97%" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Credit Risk Intelligence Engine](https://github.com/CodeWithSrish/credit-risk-intelligence-engine)** | End-to-end credit risk prediction system featuring statistical analysis, SHAP/LIME explainability, fairness evaluation (AIF360), and interactive Streamlit deployment. | Python, XGBoost, SHAP, Streamlit |
-| **[Financial Market Intelligence](https://github.com/CodeWithSrish/financial-market-intelligence)** | Technical analysis, market tracking, and statistical forecasting for financial and commodity instruments. | Python, Time Series, Pandas |
-| **[Chef-AI](https://github.com/CodeWithSrish/Chef-AI)** | Interactive culinary AI assistant utilizing NLP models to process recipes and dietary constraints. | Python, NLP, LLMs |
-| **[TruthGuard AI](https://github.com/CodeWithSrish/TruthGuard_AI)** | Misinformation detection system featuring advanced text analytics, model explainability, and interactive dashboarding. | Python, Scikit-Learn, Streamlit |
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **Credit Risk Intelligence Engine** | End-to-end credit risk prediction system featuring SHAP/LIME explainability, fairness evaluation (AIF360), and interactive Streamlit UI. | `Python` `XGBoost` `SHAP` `Streamlit` | [Repo](https://github.com/CodeWithSrish/credit-risk-intelligence-engine) |
+| **Financial Market Intelligence** | Technical analysis, market tracking, and statistical forecasting for financial and commodity instruments. | `Python` `Pandas` `Time-Series` | [Repo](https://github.com/CodeWithSrish/financial-market-intelligence) |
+| **Chef-AI** | Interactive culinary AI assistant utilizing NLP models to process recipes and dietary constraints. | `Python` `NLP` `LLMs` | [Repo](https://github.com/CodeWithSrish/Chef-AI) |
+| **TruthGuard AI** | Misinformation detection system featuring advanced text analytics, model explainability, and interactive dashboarding. | `Python` `Scikit-Learn` `Streamlit` | [Repo](https://github.com/CodeWithSrish/TruthGuard_AI) |
 
 ---
 
-## 🏅 Certifications
+## 🛠️ Tech Stack & Tools
 
-| 🎖️ Certification | 🏛️ Issuing Body |
-| :--- | :--- |
-| Diploma in Data Science | Boston Institute of Analytics |
-| Diploma in Artificial Intelligence | Boston Institute of Analytics |
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 🐍 Programming & Core Libraries
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+### 🐍 Programming & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
 
 ### 🤖 Machine Learning, Deep Learning & GenAI
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-* **ML Algorithms:** Linear/Logistic Regression, Decision Trees, Random Forest, SVM, KNN, KMeans, Hierarchical Clustering, XGBoost, Boosting Methods
-* **Deep Learning & GenAI:** Neural Networks (ANN, CNN, RNN, LSTM), Transformers, LLM Fine-Tuning, Agentic Frameworks, Prompt Engineering
-* **Explainability & Metrics:** SHAP, LIME, ROC-AUC, Confusion Matrix, Feature Importance
+*   **Algorithms:** Linear/Logistic Regression, Decision Trees, Random Forest, SVM, XGBoost, Clustering.
+*   **Deep Learning & GenAI:** Neural Networks (ANN, CNN, RNN, LSTM), Transformers, LLM Fine-Tuning, Agentic Frameworks (ADK), Prompt Engineering.
+*   **Explainability:** SHAP, LIME, ROC-AUC, Fairness Evaluation (AIF360).
 
-### 📈 Time Series & Visualization
-* **Time Series:** ARIMA, SARIMA, SARIMAX, Prophet
-* **BI & Visuals:** Power BI, Tableau, Matplotlib, Seaborn, EDA
-
-### 🚀 Deployment & Tools
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat&logo=gradio&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+### 🚀 Deployment & Dashboards
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-F7A81B?style=for-the-badge&logo=gradio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
 
 ---
 
-## 📬 Let's Connect!
+## 🏅 Certifications & Badges
 
-I'm always excited to connect with fellow data enthusiasts, collaborate on open-source projects, or discuss new job opportunities!
+| Certification / Skill Badge | Issuing Body |
+| :--- | :--- |
+| **Engineer AI Agents with Agent Development Kit (ADK)** | Google Cloud |
+| **Orchestrate Multi-agent Workflows with Gemini Enterprise** | Google Cloud |
+| **Build a Data Warehouse with BigQuery** | Google Cloud |
+| **Create Your First Gemini Enterprise Application** | Google Cloud |
+| **Diploma in Artificial Intelligence** | Boston Institute of Analytics |
+| **Diploma in Data Science** | Boston Institute of Analytics |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](YOUR_YOUTUBE_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+---
 
-*⭐ If you find my work interesting, consider starring my repositories!*
+<p align="center">
+  ⭐ <i>If you find my work interesting, feel free to explore and star my repositories!</i> ⭐
+</p>
